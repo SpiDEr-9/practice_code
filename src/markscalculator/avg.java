@@ -24,7 +24,7 @@ public class avg
 	float sum=Eng+Marathi+Hindi+Hindi+Math;
 	float Percentage= (sum/total)*100;
 	
-	System.out.println("Percentage of student is :" +Percentage);	
+	System.out.println("Your Percentage is :" + Percentage);	
  }
  	
 public static int scan() 
